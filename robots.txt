@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-8d56590d66.whklmy.cn/sitemap.xml
